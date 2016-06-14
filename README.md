@@ -1,2 +1,2 @@
 # MojProjekt
-read me
+Na razie mój program jedynie wyświetli listę studentów
