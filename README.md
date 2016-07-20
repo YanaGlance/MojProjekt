@@ -39,4 +39,4 @@ yes
 Oprócz tego będzie podana informacja dotyczy ceny, liczby przesiadek i długości lotu.
 
 Ewentualńie do programu można dodać interfejsy innych linii lotniczych, które mogą mieć inne typy. 
-Zeby ujednoloczyć interfejsy warto skorzystać ze wzorca adapter.
+Zeby ujednoliczyć interfejsy warto skorzystać ze wzorca adapter.
