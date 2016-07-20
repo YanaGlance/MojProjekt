@@ -2,7 +2,7 @@
 Mój program pozwała wyszukiwać potrzebne polączenie lotnicze. Mozna wpisać "departure city", "destination city",
 "year", "month", "day", "hour", "minute" i "possible delay". Program wypisze pasujące bilety.
 
-Testowe dane
+Testowe dane:
 
 Please, enter the departure city
 Frankfurt
